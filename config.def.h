@@ -113,10 +113,7 @@ static const Layout layouts[] = {
 	{ "+",        tile },    /* first entry is default */
 	{ "#",        grid },
 	{ "-",        NULL },    /* no layout function means floating behavior */
-	{ "[M]",      monocle },
-	{ "|||",      tcl },
-	{ "H[]",      deck },
-	{ "O",        overviewlayout },
+	{ "N/A",      monocle },
 	{ "TTT",      bstack },
 	{ "===",      bstackhoriz },
 	{ NULL,       NULL },
